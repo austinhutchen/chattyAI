@@ -1,2 +1,2 @@
 # gptBot
-An openai and vercel powered chatbot.
+n open-source vercel-powered AI chatbot.
